@@ -1,0 +1,18 @@
+1- Get specializations : Done
+
+	collect
+	Clean , scrp , scrp
+	Transorm
+
+2- Get specializations courses : done
+
+	collect
+	Clean , scrp , scrp
+	Transorm
+
+3- Get specializations Enrollment : Done 
+
+	collect
+	Clean , scrp , scrp
+	Transorm
+	merge 
